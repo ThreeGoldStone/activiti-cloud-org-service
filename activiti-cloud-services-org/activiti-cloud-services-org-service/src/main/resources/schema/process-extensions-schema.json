@@ -69,7 +69,7 @@
         {"$ref": "#/definitions/dateVariable" },
         {"$ref": "#/definitions/stringVariable"},
         {"$ref": "#/definitions/integerVariable"},
-        {"$ref": "#/definitions/booleanVariable"},
+        {"$ref": "#/definitions/booleanVariable"}
       ]
     },
     "dateVariable":{
